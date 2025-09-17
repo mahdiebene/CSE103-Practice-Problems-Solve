@@ -1,0 +1,30 @@
+# Compiled C programs
+*.exe
+*.out
+*.o
+*.obj
+
+# Test executables
+*_test
+*test
+test_*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+*.vscode/
+*.idea/
+*.dev
+*.cbp
+
+# Build directories
+build/
+bin/
+obj/
