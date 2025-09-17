@@ -22,7 +22,7 @@ String manipulation, character operations, and text processing problems.
 ### 🗃️ 2D Array Problems Solve (9 problems)
 Two-dimensional array operations including matrix manipulations and transformations.
 
-### 🎨 Pattern Problems Solve (8 problems)
+### 🎨 Pattern Problems Solve (9 problems)
 Pattern printing problems using stars, numbers, and characters including various geometric shapes.
 
 ### 🔧 Functions Practice Problems (10 problems)
@@ -59,7 +59,7 @@ gcc prob1_print_name.c -o prob1_print_name
 | Arrays | 9 | Intermediate | Array operations, searching, sorting |
 | Strings | 10 | Intermediate | String manipulation, text processing |
 | 2D Arrays | 9 | Intermediate-Advanced | Matrix operations, transformations |
-| Patterns | 8 | Intermediate | Pattern printing, geometric shapes |
+| Patterns | 9 | Intermediate | Pattern printing, geometric shapes |
 | Functions | 10 | Intermediate-Advanced | Modular programming, recursion |
 | Pointers | 8 | Advanced | Memory management, pointer arithmetic |
 
